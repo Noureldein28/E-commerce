@@ -85,11 +85,13 @@ Amount 1220
 Customer balance after payment: 8780.00
 END.
 ```
-### ScreenShots 
-The Main to run the system
+
+## Program Screenshots
+
+### Complete main program function 
 ![Run from the Main](Screenshots/MainFunction.png)
 
-The output ofter runing the system
+### Complete Program Execution
 ![The output1](Screenshots/RunningProgram.png)
 
 
