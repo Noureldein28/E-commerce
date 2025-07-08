@@ -87,9 +87,9 @@ END.
 ```
 ### ScreenShots 
 The Main to run the system
-![Run from the Main]("Screenshots\MainFunction.png")
+![Run from the Main](Screenshots/MainFunction.png)
 
 The output ofter runing the system
-![The output1]("Screenshots\RunningProgram.png")
+![The output1](Screenshots/RunningProgram.png)
 
 
